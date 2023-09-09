@@ -1,3 +1,6 @@
+If you want to see the Scraped data you can go to /items route.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
